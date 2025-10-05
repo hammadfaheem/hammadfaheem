@@ -10,6 +10,7 @@ My goal is simple: build AI that sounds natural, reasons deeply, and executes re
 ## 🛠 Tech Stack  
 
 <p align="center">
+  <img src="https://img.shields.io/badge/LiveKit-111111?style=for-the-badge&logo=webrtc&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
