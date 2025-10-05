@@ -1,98 +1,106 @@
-# 🤖 Hammad Faheem | AI Engineer | Generative AI | Voice Agents | RAG Systems  
+# 🌟 AI Engineer | Generative AI | Voice Agents | RAG Systems 🌟  
 
 👋 **About Me**  
-I’m Hammad Faheem, an **AI Engineer** who builds LLM-powered systems — from chatbots to real-time voice agents.  
-I focus on designing **agentic AI** systems that are practical, scalable, and actually solve real problems.  
-
-Lately, my work has been centered around **voice interaction**, **retrieval-augmented generation (RAG)**, and **multi-agent orchestration** — especially using **LiveKit**, **Twilio SIP**, and **OpenAI**.
-
----
-
-## 🧠 Core Expertise
-
-| Area | Tools / Skills |
-|------|----------------|
-| **LLMs & RAG** | OpenAI SDK, LangChain, LlamaIndex, LangGraph, FAISS, Pinecone, Qdrant |
-| **Voice / Realtime AI** | LiveKit, Twilio SIP, Deepgram STT, Cartesia TTS |
-| **Web & API** | FastAPI, Streamlit, Flask, React |
-| **Machine Learning** | Scikit-learn, TensorFlow, Keras |
-| **Data & Infra** | AWS (EC2, S3, Lambda), Docker, GitHub Actions, PostgreSQL, MongoDB |
-| **Other Skills** | Prompt Engineering, Multi-Agent Systems, Web Scraping (Selenium, BS4) |
+I’m **Hammad Faheem**, an AI Engineer who builds intelligent systems — from LLM-powered chatbots to real-time **voice AI agents**.  
+I focus on **agentic architectures**, **RAG pipelines**, and **speech + reasoning integration** using frameworks like **LiveKit**, **Twilio**, and **OpenAI SDKs**.  
+My goal is simple: build AI that sounds natural, reasons deeply, and executes reliably.
 
 ---
 
-## 🚀 Highlighted Projects
+## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-2C2C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-35495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4C46?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Highlighted Projects  
 
 | Project | Description |
 |----------|--------------|
-| **AI Calling Agents** | Multilingual voice agents using LiveKit + Twilio SIP. Built real-time STT → LLM → TTS pipeline with interruption/barge-in handling and async event streaming. |
-| **Call Analytics SaaS** | Dashboard for AI calls — conversation summaries, speaker insights, and sentiment detection. |
-| **Restaurant AI Bot** | Deployed 24/7 conversational agent handling menu inquiries and table bookings. |
-| **ICAP AI Bot** | Domain-specific RAG chatbot using Llama-3 for member and student queries. |
-| **CheckMate App** | Automated grading platform using Llama 3.3 — compares student answers with key PDFs via Groq and LLMs. |
-| **Tixse App** | Event-ticketing web app (FastAPI + React) with integrated chatbot for real-time support. |
+| [**AI Calling Agents**](https://ai.digitalgraphiks.co.uk/) | Multilingual WebRTC + Twilio agents with OpenAI, Cartesia TTS & Deepgram STT. |
+| [**Call Analytics SaaS**](https://ai.digitalgraphiks.co.uk/) | Centralized dashboard for monitoring AI-driven calls, transcripts, and insights. |
+| [**Restaurant AI Bot**](https://ai-restaurant-chat.digitalgraphiks.co.uk/) | Multi-platform conversational assistant handling reservations and menu queries. |
+| [**ICAP AI Bot**](https://ai.digitalgraphiks.co.uk/) | Domain-specific Q&A agent for student/member support using Llama-3 + RAG. |
+| [**CheckMate App**](https://github.com/hammadfaheem/CheckMate_app/) | Auto-grading system comparing student answers to PDFs using Groq + LLMs. |
+| [**Tixse App**](https://www.thetixse.com/) | Event-ticketing web app (FastAPI + React) with integrated chatbot for real-time support. |
 
 ---
 
-## ⚙️ LiveKit / Agents Problems I’ve Solved
+## ⚙️ LiveKit / Agentic AI Highlights  
 
 - Integrated **Twilio SIP** with **LiveKit** for reliable inbound/outbound calling.  
-- Designed a **STT → LLM → TTS pipeline** with **barge-in and interruption handling**.  
-- Managed **real-time event streaming** and **context synchronization** across agents using data channels and async RPC.  
-- Built a **modular multi-agent setup** for both voice and text agents under one orchestration layer.  
+- Designed **STT → LLM → TTS pipelines** with interruption/barge-in handling.  
+- Built real-time **context sync and event streaming** via data channels & async RPC.  
+- Created modular **multi-agent orchestration** for concurrent voice + text agents.  
 
-💬 *I can walk you through the LiveKit + SIP setup and agent flow in a quick Zoom call.*
-
----
-
-## 💼 Work Experience
-
-**AI Engineer – Omnigate** (Jul 2025 – Present)  
-Building multilingual health chatbots and conversational AI systems.
-
-**Junior AI Engineer – Digital Graphiks** (May 2025 – Present)  
-Developed intelligent chatbots and voice agents using OpenAI Agent SDK, LangChain, and vector databases. Integrated Twilio + LiveKit for real-time calling.  
-
-**AI Engineer Intern – Proxima** (Jan 2025 – Apr 2025)  
-Worked on Generative AI systems for automating customer support workflows using LLMs.  
-
-**Python & Data Science Instructor – Preply** (Mar 2022 – Present)  
-Delivered 3000+ live lessons to students from Harvard, Cornell, and Johns Hopkins.
+💬 *I can walk you through the full LiveKit + SIP setup in a short Zoom call.*
 
 ---
 
-## 🎓 Education
+## 💼 Experience  
 
-**BS – Computer Science**  
+**AI Engineer — Omnigate** *(Jul 2025 – Present)*  
+- Built multilingual chatbots for healthcare and real-time interaction.  
+
+**Junior AI Engineer — Digital Graphiks** *(May 2025 – Present)*  
+- Developed voice AI agents and call analytics using OpenAI, Twilio & LiveKit.  
+
+**AI Intern — Proxima** *(Jan 2025 – Apr 2025)*  
+- Worked on LLM-based customer support systems with LangChain & RAG.  
+
+**Python & Data Science Instructor — Preply** *(Mar 2022 – Present)*  
+- Taught 3000+ live lessons to students from Harvard, Cornell, and Johns Hopkins.  
+
+---
+
+## 🎓 Education  
+
+**BS — Computer Science (AI & Big Data)**  
 University of Karachi • Feb 2021 – Feb 2025  
-Specialization in **AI & Big Data**
 
 ---
 
-## 🏅 Certifications
+## 🏆 Certifications  
 
-- **LLMOps & Agentic RAG** – DeepLearning.AI  
-- **LangChain for LLM App Development** – DeepLearning.AI  
-- **Certified AI Developer** – PIAIC  
-- **Generative AI** – Google Cloud  
-- **Machine Learning & Pandas** – Kaggle  
-
----
-
-## 💬 Availability
-
-- 🗓 **Availability:** Consulting or Full-Time (Remote)  
-- 💰 **Rate:** $2000 / month  
-- 🚀 **Earliest Start:** Within 15 days  
+- LLMOps • Agentic RAG – LlamaIndex / DeepLearning.AI  
+- LangChain for LLM Development – DeepLearning.AI  
+- Certified AI Developer – PIAIC  
+- Generative AI – Google Cloud  
+- Machine & Deep Learning – Kaggle / DataCamp  
 
 ---
 
-## 🔗 Connect
+## 📊 GitHub Statistics  
 
-- **GitHub:** [github.com/hammadfaheem](https://github.com/hammadfaheem)  
-- **LinkedIn:** [linkedin.com/in/hammad-faheem-2162601b3](https://linkedin.com/in/hammad-faheem-2162601b3)  
-- **Kaggle:** [kaggle.com/hammadfaheem](https://kaggle.com/hammadfaheem)  
-- **Email:** [hammadfaheem5@gmail.com](mailto:hammadfaheem5@gmail.com)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadfaheem&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadfaheem&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hammadfaheem&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 🔗 Connect  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hammadfaheem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hammad-faheem-2162601b3)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/hammadfaheem)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadfaheem5@gmail.com)
 
 ---
 
