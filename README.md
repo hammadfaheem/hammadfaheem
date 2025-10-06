@@ -1,4 +1,4 @@
-# 🌟 AI Engineer | Generative AI | Voice Agents | RAG Systems 🌟  
+#  AI Engineer | Generative AI | Voice Agents | RAG Systems   
 
 👋 **About Me**  
 I’m **Hammad Faheem**, an AI Engineer who builds intelligent systems — from LLM-powered chatbots to real-time **voice AI agents**.  
