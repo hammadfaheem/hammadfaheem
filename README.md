@@ -31,7 +31,7 @@ My goal is simple: build AI that sounds natural, reasons deeply, and executes re
 | Project | Description |
 |----------|--------------|
 | [**AI Calling Agents**](https://ai.digitalgraphiks.co.uk/) | Multilingual WebRTC + Twilio agents with OpenAI, Cartesia TTS & Deepgram STT. |
-| [**Call Analytics SaaS**](https://ai.digitalgraphiks.co.uk/) | Centralized dashboard for monitoring AI-driven calls, transcripts, and insights. |
+| [**Call Analytics SaaS**](https://dg-ai-chatbot-landing.vercel.app/) | Centralized dashboard for monitoring AI-driven calls, transcripts, and insights. |
 | [**Restaurant AI Bot**](https://ai-restaurant-chat.digitalgraphiks.co.uk/) | Multi-platform conversational assistant handling reservations and menu queries. |
 | [**ICAP AI Bot**](https://ai.digitalgraphiks.co.uk/) | Domain-specific Q&A agent for student/member support using Llama-3 + RAG. |
 | [**CheckMate App**](https://github.com/hammadfaheem/CheckMate_app/) | Auto-grading system comparing student answers to PDFs using Groq + LLMs. |
