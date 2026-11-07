@@ -1,163 +1,183 @@
-#  AI Engineer | Voice AI Specialist | Agentic Systems   
-
-👋 **About Me**  
-I'm **Hammad Faheem**, an AI Engineer specializing in **voice AI agents**, **agentic systems**, and **real-time communication platforms**.  
-Currently building production-grade AI solutions at **SophiieAI** while pursuing an **MS in Artificial Intelligence** at NED University.  
-I focus on **LiveKit voice agents**, **multi-agent orchestration**, and **RAG pipelines** using frameworks like **LiveKit**, **Twilio**, **OpenAI SDKs**, and **LangChain**.  
-My goal is simple: build AI that sounds natural, reasons deeply, and executes reliably.
-
----
-
-## 🛠 Tech Stack  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Hammad%20Faheem&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Voice%20AI%20Engineer%20%C2%B7%20Real-time%20Voice%20Agents%20%C2%B7%20LiveKit%20%26%20Telephony&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Hammad Faheem — Voice AI Engineer" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LiveKit-111111?style=for-the-badge&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=70A5FD&center=true&vCenter=true&width=620&lines=I+build+voice+agents+that+sound+human;STT+%E2%86%92+LLM+%E2%86%92+TTS+in+under+800+ms;LiveKit+%C2%B7+Twilio+SIP+%C2%B7+WebRTC;Live+speech+translation+into+100%2B+languages" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hammad-faheem-2162601b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hammadfaheem5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/923172828890"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://kaggle.com/hammadfaheem"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=hammadfaheem&label=Profile%20views&color=70a5fd&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+## 👋 About Me
 
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| [**MajsterAI**](https://github.com/hammadfaheem) | AI calling agent platform with real-time voice interactions | LiveKit, FastAPI, React 18, PostgreSQL, Ultravox, Silero VAD |
-| [**Mews Integration**](https://github.com/hammadfaheem) | Hotel reservation system integration with LiveKit voice agents | LiveKit, Python, Mews API |
-| [**AI Calling Agents**](https://ai.digitalgraphiks.co.uk/) | Multilingual WebRTC + Twilio agents with OpenAI, Cartesia TTS & Deepgram STT | Twilio, LiveKit, OpenAI, Cartesia, Deepgram |
-| [**Call Analytics SaaS**](https://dg-ai-chatbot-landing.vercel.app/) | Centralized dashboard for monitoring AI-driven calls and insights | FastAPI, React, PostgreSQL |
-| [**Restaurant AI Bot**](https://ai-restaurant-chat.digitalgraphiks.co.uk/) | Multi-platform conversational assistant for reservations | LangChain, RAG, OpenAI |
-| [**ICAP AI Bot**](https://ai.digitalgraphiks.co.uk/) | Domain-specific Q&A agent using Llama-3 + RAG | Llama-3, FAISS, LangChain |
-| [**Tixse App**](https://www.thetixse.com/) | Event-ticketing platform with AI chatbot support | FastAPI, React, PostgreSQL |
+I build voice agents that pick up the phone, hold a natural conversation, and actually get the job done: booking a hotel room, scheduling a plumber, or translating a live sermon into 100+ languages.
 
----
+I've shipped real-time voice AI to production for teams in 🇺🇸 the US, 🇦🇺 Australia and 🇸🇪 Sweden, mostly on **LiveKit**, **Twilio SIP** and **WebRTC**.
 
-## 💼 Experience  
-
-**AI / Python Engineer — SophiieAI** *(Nov 2025 – Present)*  
-*Australia (Remote)*
-- Developing and debugging LiveKit AI agents with agent refactoring and bug resolution
-- Integrated Mews hotel reservation platform with LiveKit (booking creation, updates, cancellations, customer profile retrieval)
-- Building and maintaining Python-based APIs with voice AI tools like HammingAI
-- Ensuring reliable automation workflows across production systems
-
-**AI Engineer — Omnigate** *(Jul 2025 – Nov 2025)*  
-*Sweden (Remote)*
-- Built multilingual healthcare chatbots with contextual memory
-- Developed multi-agent systems for SQL Q&A and tool execution
-- Integrated AI-driven ticketing for automated support
-
-**Junior AI Engineer — Digital Graphiks** *(May 2025 – Present)*  
-*Karachi, Pakistan*
-- Integrated Twilio SIP with LiveKit for reliable inbound/outbound calling
-- Designed end-to-end **STT → LLM → TTS pipeline** with real-time interruption (barge-in) handling
-- Managed real-time event streaming and context synchronization using data channels and asynchronous RPC
-
-**AI Engineer Intern — Proxima** *(Jan 2025 – Apr 2025)*  
-*Karachi, Pakistan*
-- Specialized in Generative AI to automate and optimize customer support
-- Worked on LLM-based systems with LangChain & RAG
-
-**Data Science and Python Instructor — Preply** *(Mar 2022 – Present)*  
-*Remote*
-- Delivered 3000+ personalized lessons to 200+ students from Harvard, Cornell, and Johns Hopkins
+- 🔭 Currently building **TarjamAI**, a live speech-translation platform for masjids that serves 100+ languages in real time
+- 🎙️ Specialise in low-latency **STT → LLM → TTS** pipelines, SIP telephony, barge-in handling and tool-calling agents
+- 🎓 Pursuing an **MS in Artificial Intelligence** at NED University
+- 🧑‍🏫 Taught **3,000+ Data Science & Python lessons** on Preply with a 4.9★ rating
+- 💬 Ask me about LiveKit Agents, Twilio SIP trunking, voice latency, or testing voice agents
+- 🤝 Open to **Voice AI engineering roles** and **freelance voice-agent projects**
 
 ---
 
-## ⚙️ LiveKit / Voice AI Expertise  
+## 📈 Impact at a Glance
 
-- **SIP Integration**: Integrated Twilio SIP with LiveKit for enterprise-grade telephony
-- **Voice Pipelines**: Built STT → LLM → TTS pipelines with interruption/barge-in handling
-- **Real-time Streaming**: Implemented context sync and event streaming via data channels & async RPC
-- **Multi-Agent Orchestration**: Designed modular systems for concurrent voice + text agents
-- **Hotel Integrations**: Connected Mews reservation platform with voice AI for automated booking workflows
-- **Production Deployment**: Maintained Python-based APIs and automation workflows at scale
-
-💬 *I can walk you through the full LiveKit + SIP setup in a short call.*
+| ⚡ **< 800 ms** | 📞 **100+** | 🐞 **−35%** | 🌍 **100+** |
+|:---:|:---:|:---:|:---:|
+| voice response latency with barge-in | concurrent calls on Twilio SIP + LiveKit | production agent error rate | languages translated live |
 
 ---
 
-## 🎓 Education  
+## 🎙️ How I Build Voice Agents
 
-**Master of Science — Artificial Intelligence** *(Jan 2026 – Present)*  
-NED University of Engineering & Technology, Karachi, Pakistan  
-- Focusing on advanced AI concepts and real-world applications
-- Designing intelligent systems for healthcare, automation, and data-driven solutions
+A typical production call flow I design and ship:
 
-**Bachelor of Science — Computer Science (AI & Big Data)** *(Feb 2021 – Feb 2025)*  
-University of Karachi, Pakistan  
-- Specialized in AI & Big Data
-- Gained expertise in programming, data science, and applied machine learning
-
-**Certified Artificial Intelligence Developer** *(2020 – 2022)*  
-PIAIC (Presidential Initiative for AI and Computing), Batch 7  
-- Roll # PIAIC139258
-- Hands-on experience in AI concepts, tools, and real-world projects
-
----
-
-## 🏆 Certifications  
-
-- **Building Agentic RAG** – LlamaIndex / DeepLearning.AI  
-- **Building Autonomous Agents** – DeepLearning.AI  
-- **LangChain for LLM Application Development** – DeepLearning.AI  
-- **Certified AI Developer** – PIAIC  
-- **Machine Learning** – Kaggle / DataCamp  
+```mermaid
+flowchart LR
+    caller["📞 Caller<br/>Phone or Browser"] -->|PSTN| sip["Twilio SIP Trunk"]
+    sip -->|SIP| room["LiveKit Room"]
+    caller -.->|WebRTC| room
+    room --> vad["Silero VAD"]
+    vad --> stt["Speech-to-Text"]
+    stt --> llm["LLM Agent<br/>+ Tool Calling"]
+    llm <-->|bookings · CRM · APIs| biz[("Business Systems")]
+    llm --> tts["Text-to-Speech"]
+    tts --> room
+    vad -.->|barge-in| tts
+```
 
 ---
 
-## 💡 Core Skills  
-
-**LiveKit & Voice AI**  
-Real-time voice & video systems, SIP, WebRTC, event streaming, AI call agents
-
-**Multi-Agent Systems**  
-Calling agents, tool execution, SQL Q&A, workflow orchestration
-
-**ML & Deep Learning**  
-Python, Scikit-Learn, TensorFlow, Keras, PySpark, EDA, Feature Engineering, ANN, CNN
-
-**Generative AI & Agent Systems**  
-LangChain, LangGraph, AutoGen, RAG, Vector DBs (FAISS, Chroma, Pinecone), OpenAI Agent SDK
-
-**Cloud & DevOps**  
-AWS (EC2, S3, Lambda, CloudWatch, Auto Scaling, SQS), Docker, GitHub Actions
-
-**Web Development**  
-FastAPI, React, PostgreSQL, Selenium, Beautiful Soup
-
----
-
-## 📊 GitHub Statistics  
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadfaheem&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadfaheem&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,tailwind,redux,postgres,mysql,redis,docker,aws,githubactions,linux,git&perline=7" alt="Core stack" />
+</p>
+
+| Area | Tools |
+|---|---|
+| **Voice & Real-time** | ![LiveKit](https://img.shields.io/badge/LiveKit_Agents-111111?style=flat-square&logo=webrtc&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio_SIP-F22F46?style=flat-square&logo=twilio&logoColor=white) ![Ultravox](https://img.shields.io/badge/Ultravox-5B3DF5?style=flat-square) ![Silero VAD](https://img.shields.io/badge/Silero_VAD-2E3440?style=flat-square) ![Deepgram](https://img.shields.io/badge/Deepgram_STT-13EF93?style=flat-square) ![Cartesia](https://img.shields.io/badge/Cartesia_TTS-1F1F1F?style=flat-square) ![HammingAI](https://img.shields.io/badge/HammingAI-6E40C9?style=flat-square) |
+| **Agents & LLMs** | ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-8A2BE2?style=flat-square) |
+| **Vector Stores** | ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white) ![Chroma](https://img.shields.io/badge/Chroma-FF6446?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square) |
+| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
+| **AI Dev Tools** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) |
+
+---
+
+## 🚀 Featured Work
+
+| Project | What it does | Built with |
+|---|---|---|
+| 🕌 **TarjamAI**<br/><sub>🔒 Product · 2026</sub> | Translates live Friday khutbahs and Islamic sermons into 100+ languages in real time. Detects Quranic verses, hadith and Islamic terms and links them to Quran.com / Sunnah.com instead of relying on free-form machine translation. | Low-latency streaming speech pipeline, live captions |
+| 🔧 **MajsterAI**<br/><sub>🔒 Private · 2025</sub> | AI receptionist for plumbers, electricians and contractors. It answers inbound calls, qualifies the job, captures customer details and books the appointment mid-call. | LiveKit Agents, Ultravox, Silero VAD, FastAPI, PostgreSQL, React 18 + Vite, Docker Compose |
+| 🏨 **Mews × LiveKit**<br/><sub>🔒 Client work</sub> | Voice agent that creates, updates and cancels hotel reservations and pulls guest profiles during live calls, saving ~15 hours of manual work per week. | LiveKit, Python, Mews API, HammingAI |
+| 📞 **[AI Calling Agents](https://ai.digitalgraphiks.co.uk/)** | Multilingual inbound/outbound calling agents with real-time interruption handling and sub-800 ms responses. | Twilio SIP, LiveKit, OpenAI, Deepgram, Cartesia |
+| 🎟️ **[Tixse](https://www.thetixse.com/)** | Event-ticketing web app with real-time seat selection, secure payments and AI-powered support. | FastAPI, React, PostgreSQL |
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+| Project | What it does | Built with |
+|---|---|---|
+| 📊 **[Call Analytics SaaS](https://dg-ai-chatbot-landing.vercel.app/)** | Central dashboard for monitoring AI-driven calls and insights | FastAPI, React, PostgreSQL |
+| 🍽️ **[Restaurant AI Bot](https://ai-restaurant-chat.digitalgraphiks.co.uk/)** | Multi-platform assistant that handles restaurant reservations | LangChain, RAG, OpenAI |
+| 📚 **[ICAP AI Bot](https://ai.digitalgraphiks.co.uk/)** | Domain-specific Q&A agent for accounting students | Llama-3, FAISS, LangChain |
+| 🩺 **Healthcare Chatbots**<br/><sub>🔒 Client work</sub> | Multilingual assistants with contextual memory (5 languages, 3,000+ users) | LLMs, multi-agent tool use |
+
+</details>
+
+---
+
+## 💼 Experience
+
+**🟢 AI Engineer · TarjamAI** · 🇺🇸 United States (Remote) · *Apr 2026 – Present*
+- Engineered a low-latency streaming pipeline from live speech to translated captions that keeps pace with the speaker through long-form sermons
+- Built automatic detection of Quranic verses, hadith and Islamic terms, linked to authentic sources
+
+**AI / Python Engineer · SophiieAI** · 🇦🇺 Australia (Remote) · *Nov 2025 – Apr 2026*
+- Resolved 40+ critical bugs in production LiveKit voice agents, cutting agent error rates by **35%**
+- Integrated the Mews hotel platform so agents handle bookings, changes and cancellations live (**~15 hrs/week** saved)
+- Tested agents with HammingAI (**+22%** call-completion accuracy) and kept Python APIs at **99.5%** uptime
+
+**AI Engineer · Omnigate** · 🇸🇪 Sweden (Remote) · *Jul 2025 – Nov 2025*
+- Shipped multilingual healthcare chatbots for **3,000+ users** in 5 languages
+- Built multi-agent SQL Q&A (**−45%** data-retrieval time) and AI ticketing that deflects **60%** of tickets
+
+**Junior AI Engineer · Digital Graphiks** · 🇵🇰 Karachi · *May 2025 – Oct 2025*
+- Designed an STT → LLM → TTS pipeline with barge-in handling and **< 800 ms** response latency
+- Integrated Twilio SIP with LiveKit for inbound and outbound calling at **100+ concurrent calls**
+- Synced real-time events and context across agents with data channels and async RPC
+
+**AI Engineer Intern · Proxima** · 🇵🇰 Karachi · *Jan 2025 – Apr 2025*
+- Built generative-AI support workflows that cut average resolution time by **30%**
+
+**Data Science & Python Instructor · Preply** · 🌐 Remote · *Mar 2022 – Present*
+- 3,000+ lessons for 200+ students, including learners from Harvard, Cornell and Johns Hopkins (4.9★)
+
+---
+
+## 🎓 Education & Certifications
+
+| | |
+|---|---|
+| 🎓 **MS, Artificial Intelligence** | NED University of Engineering & Technology · *2026 – Present* |
+| 🎓 **BS, Computer Science (AI & Big Data)** | University of Karachi · *2021 – 2025* |
+| 🏅 **Certified AI Developer** | PIAIC (Presidential Initiative for AI & Computing) · *2020 – 2022* |
+| 📜 **Building Agentic RAG with LlamaIndex** | DeepLearning.AI |
+| 📜 **Building Autonomous Agents** | DeepLearning.AI |
+| 📜 **LangChain for LLM Application Development** | DeepLearning.AI |
+| 📜 **Machine Learning** | Kaggle / DataCamp |
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadfaheem&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadfaheem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hammadfaheem&theme=tokyonight" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=hammadfaheem&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadfaheem&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadfaheem/hammadfaheem/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hammadfaheem/hammadfaheem/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/hammadfaheem/hammadfaheem/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## 🔗 Connect  
+## 🤝 Let's Build Something
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hammadfaheem)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hammad-faheem-2162601b3)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/hammadfaheem)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadfaheem5@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923172828890)
+Building a voice agent, wiring up SIP telephony, or trying to bring latency down? I'm happy to walk you through a **LiveKit + Twilio SIP** setup on a short call.
 
----
+📫 [hammadfaheem5@gmail.com](mailto:hammadfaheem5@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/hammad-faheem-2162601b3)
 
-> "AI systems should feel seamless — not scripted."  
-> — Hammad Faheem
+<p align="center">
+  <i>"AI systems should feel seamless, not scripted."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=110&section=footer" width="100%" alt="" />
+</p>
