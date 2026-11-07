@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Hammad%20Faheem&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Voice%20AI%20Engineer%20%C2%B7%20Real-time%20Voice%20Agents%20%C2%B7%20LiveKit%20%26%20Telephony&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Hammad Faheem — Voice AI Engineer" />
+  <img src="assets/header.svg" width="100%" alt="Hammad Faheem — Voice AI Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=70A5FD&center=true&vCenter=true&width=620&lines=I+build+voice+agents+that+sound+human;STT+%E2%86%92+LLM+%E2%86%92+TTS+in+under+800+ms;LiveKit+%C2%B7+Twilio+SIP+%C2%B7+WebRTC;Live+speech+translation+into+100%2B+languages" alt="Typing intro" />
+  <img src="assets/typing.svg" alt="I build voice agents that sound human" />
 </p>
 
 <p align="center">
@@ -146,16 +146,16 @@ flowchart LR
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadfaheem&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadfaheem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details and contribution graph" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" height="165" alt="GitHub stats" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="165" alt="Most-used languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hammadfaheem&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadfaheem&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
 </p>
 
 <p align="center">
@@ -179,5 +179,5 @@ Building a voice agent, wiring up SIP telephony, or trying to bring latency down
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=110&section=footer" width="100%" alt="" />
+  <img src="assets/footer.svg" width="100%" alt="" />
 </p>
